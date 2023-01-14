@@ -1,6 +1,6 @@
 <h1>Cybersecurity Student</a></h1>
 
-<h2> Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>Work In Progress...</b>
 
